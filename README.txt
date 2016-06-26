@@ -2,6 +2,7 @@
 License Agreement: The orginal source code was created by Aaron Brown for educational purposes.
 Feel free to modify the program and share to explore more in depth on automous maze exploration, but for any redistrubtion 
 include reference to orginal creator "Aaron Brown". 
+for questions or other comments you can contact aaronwbrown@msn.com
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Micro Mouse Simulator
